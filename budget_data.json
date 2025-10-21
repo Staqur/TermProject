@@ -1,0 +1,18 @@
+{
+    "income": [
+        {
+            "amount": 300.0,
+            "category": "freelance",
+            "description": "free",
+            "date": "2025-10-19 21:23:59"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 5000000.0,
+            "category": "food",
+            "description": "Pizza",
+            "date": "2025-10-19 21:23:40"
+        }
+    ]
+}
